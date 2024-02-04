@@ -1,3 +1,3 @@
 # Legend-Of-Mystery
- Unity2d Magara Jam  Yaptıgımız oyun 3 kişi olarka 
- 72 saate yaptıgımız bir oyun ve ilk yarışmamdı arkadaşarımla birlikte cok zevkadlım MagaraJAM
+ Unity 2D Magara Jam'de yaptığımız oyun, 3 kişi olarak 72 saatte ortaya çıkan bir proje. 
+ Bu aynı zamanda ilk yarışmamızdı ve arkadaşlarımla birlikte katıldık. Magara JAM deneyimi gerçekten çok keyifliydi!
